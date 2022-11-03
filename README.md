@@ -11,3 +11,9 @@ Weitere Abstimmung: Es sind Absprachen notwendig mit dem Bioinformatiker und dem
 Weitere Personen in dem Projekt: Tim Fellerhoff (hat die ersten Analysen gemacht), evtl. ein weiterer Student für die Durchführung von Datenanalysen, evtl. PostDoc mit Spezialkenntnissen in KI oder regulatorische Prozessen.
 
 Evtl. problematische Randbedingungen: noch unklar, ob die Datenmenge auch die gewünschten Ergebnisse bringen wird. 
+
+
+# Besprechung 2022-11-03
+Dietrich Rebholz-Schuhman, Till Sauerwein
+
+Was für Datensätze sind vorhanden? Gesunde und Kranke? oder nur Patienten mit Pneumonien? Unterschiedliche Zeitpunkte und schwere der Krankheiten? Was für reads? Illumina, paired-end single end? Welche Analysen wurden bereits getätigt. Sind Patientendaten gesondert zu behandeln? Datenschutz?
